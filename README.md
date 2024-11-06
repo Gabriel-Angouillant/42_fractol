@@ -4,6 +4,7 @@
 - Each function must not exceed 25 lines.
 - The project must be written solely in C.
 - Global variables are not allowed.
+- Any crash, leak, or conditional jump is forbidden.
 - Allowed external functions are: `open`, `close`, `read`, `write`, `malloc`, `free`, `perror`, `strerror`, `exit`, and functions from the `<math.h>` library.
 
 ### Project Overview:
